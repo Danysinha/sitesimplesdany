@@ -40,7 +40,7 @@ nav li a:hover{
     color: black;
 }
 .banner{
-    height: 100vh;
+    height: 70vh;
     background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg');
     background-size: cover;
     background-position: center;
