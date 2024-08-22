@@ -41,7 +41,7 @@ nav li a:hover{
 }
 .banner{
     height: 70vh;
-    background: linear-gradient( rgb(0, 0, 0), rgba(143, 81, 81, 0.308)),url('https://e1.pxfuel.com/desktop-wallpaper/273/116/desktop-wallpaper-spider-man-widescreen-high-definition-spider-man-for-pc.jpg');
+    background: linear-gradient( rgba(143, 81, 81, 0.308), rgba(143, 81, 81, 0.308)),url('https://e1.pxfuel.com/desktop-wallpaper/273/116/desktop-wallpaper-spider-man-widescreen-high-definition-spider-man-for-pc.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
